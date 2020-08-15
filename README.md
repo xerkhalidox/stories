@@ -4,8 +4,9 @@ Stories is a web application to share your stories with others.
 
 Developed using [NodeJs](https://nodejs.org), [ExpressJs](https://expressjs.com/),[MongoDB](https://www.mongodb.com/) for Backend and [Materialize](https://materializecss.com/) for Frontend.
 
-![dashboard screenshot](dashboard.jpg)
-![public screenshot](public.jpg)
+![dashboard screenshot](https://github.com/xerkhalidox/stories/blob/master/dashboard.JPG)
+![public screenshot](https://github.com/xerkhalidox/stories/blob/master/public.JPG)
+
 # Getting Started
 
 first clone this project by running this in terminal
