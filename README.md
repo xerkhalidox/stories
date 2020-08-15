@@ -1,6 +1,6 @@
 # Stories
 
-Stories is a web application to share your stories with others.
+Stories is a web application to share your stories with others, You can edit and delete and show users' stories.
 
 Developed using [NodeJs](https://nodejs.org), [ExpressJs](https://expressjs.com/),[MongoDB](https://www.mongodb.com/) for Backend and [Materialize](https://materializecss.com/) for Frontend.
 
